@@ -3,6 +3,6 @@ This software project visualize a temperature field in an orthotropic plate unde
 ***
 How to use
 ---
-You can find all required files in "CMakeFiles" folder.<br />
+You can find all required files in "cmake-build-debug" folder.<br />
 Open the main executable file, input all required data(heat sources, plate parameters, etc) and close the program.
 Then find "Show.mw" and open it with Maple. Run the scenario. Done.
